@@ -1,0 +1,7 @@
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\bin\Debug\GraRPG.exe.config
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\bin\Debug\GraRPG.exe
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\bin\Debug\GraRPG.pdb
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\obj\Debug\GraRPG.csprojAssemblyReference.cache
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\obj\Debug\GraRPG.csproj.CoreCompileInputs.cache
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\obj\Debug\GraRPG.exe
+C:\Users\Sławek\source\repos\GraRPG\GraRPG\obj\Debug\GraRPG.pdb
